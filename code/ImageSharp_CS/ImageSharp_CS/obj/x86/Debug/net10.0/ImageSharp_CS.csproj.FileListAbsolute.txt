@@ -1,0 +1,17 @@
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\bin\x86\Debug\net10.0\ImageSharp_CS.exe
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\bin\x86\Debug\net10.0\ImageSharp_CS.deps.json
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\bin\x86\Debug\net10.0\ImageSharp_CS.runtimeconfig.json
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\bin\x86\Debug\net10.0\ImageSharp_CS.dll
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\bin\x86\Debug\net10.0\ImageSharp_CS.pdb
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\bin\x86\Debug\net10.0\SixLabors.ImageSharp.dll
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSharp_CS.csproj.AssemblyReference.cache
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSharp_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSharp_CS.AssemblyInfoInputs.cache
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSharp_CS.AssemblyInfo.cs
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSharp_CS.csproj.CoreCompileInputs.cache
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSha.EAF8D359.Up2Date
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSharp_CS.dll
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\refint\ImageSharp_CS.dll
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSharp_CS.pdb
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ImageSharp_CS.genruntimeconfig.cache
+C:\Users\jashv\OneDrive\桌面\ImageSharp_CS\ImageSharp_CS\obj\x86\Debug\net10.0\ref\ImageSharp_CS.dll

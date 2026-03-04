@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ImageSharp_CS/ImageSharp_CS.csproj">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
