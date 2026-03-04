@@ -1,7 +1,7 @@
 C#(.net10 x86) 圖片進行Otsu二值化 範例 [cs_image_OtsuThreshold]
 
 資料來源: AI
-https://zh.wikipedia.org/zh-tw/Hello_Kitty [測試素材來源]
+https://zh.wikipedia.org/zh-tw/Hello_Kitty [測試素材來源/去背圖是自己用PhotoCap在加工]
 
 =============
 方案收集
